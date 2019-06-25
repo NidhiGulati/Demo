@@ -48,7 +48,7 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="50dp"
         android:layout_marginRight="30dp"
-        android:hint="Credit Card"
+        android:hint="Credit Card info"
         android:textSize="30dp" />
     <EditText
         android:background="@android:color/white"
